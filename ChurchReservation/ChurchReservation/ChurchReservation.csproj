@@ -1,0 +1,616 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F5FCF7CF-0943-499F-B5D5-D6E71FEE744F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ChurchReservation</RootNamespace>
+    <AssemblyName>ChurchReservation</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\MySQL\MySQL Connector Net 6.9.8\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountForm.Designer.cs">
+      <DependentUpon>AccountForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounts.Designer.cs">
+      <DependentUpon>Accounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccountSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountSetting.Designer.cs">
+      <DependentUpon>AccountSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaptEditExit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaptEditExit.Designer.cs">
+      <DependentUpon>BaptEditExit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaptismEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaptismEdit.Designer.cs">
+      <DependentUpon>BaptismEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaptismInstallment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaptismInstallment.Designer.cs">
+      <DependentUpon>BaptismInstallment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baptist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baptist.Designer.cs">
+      <DependentUpon>Baptist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaptistViewing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaptistViewing.Designer.cs">
+      <DependentUpon>BaptistViewing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaptistViewingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaptistViewingForm.Designer.cs">
+      <DependentUpon>BaptistViewingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreditsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreditsForm.Designer.cs">
+      <DependentUpon>CreditsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditForms.Designer.cs">
+      <DependentUpon>EditForms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnableForm.Designer.cs">
+      <DependentUpon>EnableForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fill-upBapt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fill-upBapt.Designer.cs">
+      <DependentUpon>Fill-upBapt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FillupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FillupForm.Designer.cs">
+      <DependentUpon>FillupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FillupForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FillupForm2.Designer.cs">
+      <DependentUpon>FillupForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FillupFormFuneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FillupFormFuneral.Designer.cs">
+      <DependentUpon>FillupFormFuneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FuneralEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FuneralEdit.Designer.cs">
+      <DependentUpon>FuneralEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FuneralFinish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FuneralFinish.Designer.cs">
+      <DependentUpon>FuneralFinish.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FuneralForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FuneralForm.Designer.cs">
+      <DependentUpon>FuneralForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FuneralInstallment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FuneralInstallment.Designer.cs">
+      <DependentUpon>FuneralInstallment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FuneralReq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FuneralReq.Designer.cs">
+      <DependentUpon>FuneralReq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FuneralViewingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FuneralViewingForm.Designer.cs">
+      <DependentUpon>FuneralViewingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InstallmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InstallmentForm.Designer.cs">
+      <DependentUpon>InstallmentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="marriage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="marriage.Designer.cs">
+      <DependentUpon>marriage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarriageViewing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarriageViewing.Designer.cs">
+      <DependentUpon>MarriageViewing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreForm.Designer.cs">
+      <DependentUpon>MoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment.Designer.cs">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentBapt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentBapt.Designer.cs">
+      <DependentUpon>PaymentBapt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentForm.Designer.cs">
+      <DependentUpon>PaymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentFuneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentFuneral.Designer.cs">
+      <DependentUpon>PaymentFuneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUpBaptism.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUpBaptism.Designer.cs">
+      <DependentUpon>PopUpBaptism.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationForm.Designer.cs">
+      <DependentUpon>RegistrationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationFormBaptist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationFormBaptist.Designer.cs">
+      <DependentUpon>RegistrationFormBaptist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationFormFuneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationFormFuneral.Designer.cs">
+      <DependentUpon>RegistrationFormFuneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationList.Designer.cs">
+      <DependentUpon>RegistrationList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationListBaptist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationListBaptist.Designer.cs">
+      <DependentUpon>RegistrationListBaptist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationListFuneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationListFuneral.Designer.cs">
+      <DependentUpon>RegistrationListFuneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReqBaptist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReqBaptist.Designer.cs">
+      <DependentUpon>ReqBaptist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REQUIREMENTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REQUIREMENTS.Designer.cs">
+      <DependentUpon>REQUIREMENTS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\RegistrationFormFuneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\RegistrationFormFuneral.Designer.cs">
+      <DependentUpon>RegistrationFormFuneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Viewing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Viewing.Designer.cs">
+      <DependentUpon>Viewing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewingForm.Designer.cs">
+      <DependentUpon>ViewingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WeddingEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeddingEdit.Designer.cs">
+      <DependentUpon>WeddingEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WeddingInstallment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeddingInstallment.Designer.cs">
+      <DependentUpon>WeddingInstallment.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AccountForm.resx">
+      <DependentUpon>AccountForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounts.resx">
+      <DependentUpon>Accounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountSetting.resx">
+      <DependentUpon>AccountSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaptEditExit.resx">
+      <DependentUpon>BaptEditExit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaptismEdit.resx">
+      <DependentUpon>BaptismEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaptismInstallment.resx">
+      <DependentUpon>BaptismInstallment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baptist.resx">
+      <DependentUpon>Baptist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaptistViewing.resx">
+      <DependentUpon>BaptistViewing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaptistViewingForm.resx">
+      <DependentUpon>BaptistViewingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreditsForm.resx">
+      <DependentUpon>CreditsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditForms.resx">
+      <DependentUpon>EditForms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnableForm.resx">
+      <DependentUpon>EnableForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fill-upBapt.resx">
+      <DependentUpon>Fill-upBapt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FillupForm.resx">
+      <DependentUpon>FillupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FillupForm2.resx">
+      <DependentUpon>FillupForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FillupFormFuneral.resx">
+      <DependentUpon>FillupFormFuneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FuneralEdit.resx">
+      <DependentUpon>FuneralEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FuneralFinish.resx">
+      <DependentUpon>FuneralFinish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FuneralForm.resx">
+      <DependentUpon>FuneralForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FuneralInstallment.resx">
+      <DependentUpon>FuneralInstallment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FuneralReq.resx">
+      <DependentUpon>FuneralReq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FuneralViewingForm.resx">
+      <DependentUpon>FuneralViewingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InstallmentForm.resx">
+      <DependentUpon>InstallmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="marriage.resx">
+      <DependentUpon>marriage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarriageViewing.resx">
+      <DependentUpon>MarriageViewing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreForm.resx">
+      <DependentUpon>MoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment.resx">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentBapt.resx">
+      <DependentUpon>PaymentBapt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentForm.resx">
+      <DependentUpon>PaymentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentFuneral.resx">
+      <DependentUpon>PaymentFuneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUpBaptism.resx">
+      <DependentUpon>PopUpBaptism.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrationForm.resx">
+      <DependentUpon>RegistrationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrationFormBaptist.resx">
+      <DependentUpon>RegistrationFormBaptist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrationFormFuneral.resx">
+      <DependentUpon>RegistrationFormFuneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrationList.resx">
+      <DependentUpon>RegistrationList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrationListBaptist.resx">
+      <DependentUpon>RegistrationListBaptist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrationListFuneral.resx">
+      <DependentUpon>RegistrationListFuneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReqBaptist.resx">
+      <DependentUpon>ReqBaptist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REQUIREMENTS.resx">
+      <DependentUpon>REQUIREMENTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\RegistrationFormFuneral.resx">
+      <DependentUpon>RegistrationFormFuneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Viewing.resx">
+      <DependentUpon>Viewing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewingForm.resx">
+      <DependentUpon>ViewingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeddingEdit.resx">
+      <DependentUpon>WeddingEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeddingInstallment.resx">
+      <DependentUpon>WeddingInstallment.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\Capture.PNG" />
+    <None Include="Resources\Capture1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wedding-Rings-Wedding-Day-The-Trent.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1404230167000-CandleDeathNotices.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1404230167000-CandleDeathNotices1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Baptism_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abstract_color_background_picture_8016-wide.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keithmorris-maximus_905.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Careers-Banner-background-fixed_0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\content_icon_step5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_requirement.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Files-View-File-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1st.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2nd.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3rd.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4th.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\first.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seconcd.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thuird.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forst.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11111.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2222.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\33333.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\44444.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11111111111.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\theangelsthroughtheeyesofachild-540x360.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12767283_1060623767314301_613875520_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12784450_1060624087314269_734985887_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12767283_1060623767314301_613875520_n1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12784749_1060623847314293_420883734_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_requirement1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\content_icon_step51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment-methods-banknotes-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment_icon2-1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

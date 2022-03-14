@@ -1,0 +1,348 @@
+c:\users\anthony\documents\visual studio 2010\Projects\ChurchReservation\ChurchReservation\bin\Debug\ChurchReservation.exe
+c:\users\anthony\documents\visual studio 2010\Projects\ChurchReservation\ChurchReservation\bin\Debug\ChurchReservation.pdb
+c:\users\anthony\documents\visual studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Properties.Resources.resources
+c:\users\anthony\documents\visual studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.csproj.GenerateResource.Cache
+c:\users\anthony\documents\visual studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.exe
+c:\users\anthony\documents\visual studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.pdb
+c:\users\anthony\documents\visual studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.LoginFrm.resources
+c:\users\anthony\documents\visual studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Main.resources
+c:\users\anthony\documents\visual studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.marriage.resources
+c:\users\anthony\documents\visual studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupForm.resources
+c:\users\anthony\documents\visual studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.REQUIREMENTS.resources
+c:\users\anthony\documents\visual studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Payment.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Baptist.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.ReqBaptist.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentBapt.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistFinished.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupFormFuneral.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralForm.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralReq.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentFuneral.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralFinish.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.MoreForm.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistViewing.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Accounts.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.MarriageViewing.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptismEdit.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.EditForms.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptEditExit.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.WeddingEdit.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.CreditsForm.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralEdit.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PopUpWedding.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PopUpBaptism.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.ViewingForm.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentForm.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistViewingForm.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Viewing.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralViewingForm.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Fill_upBapt.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupForm2.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.InstallmentForm.resources
+C:\Users\Anthony\Documents\Visual Studio 2010\Projects\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralInstallment.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.exe
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.pdb
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\bin\Debug\ChurchReservation.exe
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\bin\Debug\ChurchReservation.pdb
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Accounts.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptEditExit.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptismEdit.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Baptist.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistFinished.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistViewing.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistViewingForm.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.CreditsForm.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.EditForms.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Fill_upBapt.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupForm.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupForm2.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupFormFuneral.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.LoginFrm.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralEdit.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralFinish.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralForm.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralInstallment.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralReq.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralViewingForm.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.InstallmentForm.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Main.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.marriage.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.MarriageViewing.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.MoreForm.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Payment.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentBapt.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentForm.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentFuneral.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PopUpBaptism.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PopUpWedding.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Properties.Resources.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.ReqBaptist.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.REQUIREMENTS.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Viewing.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.ViewingForm.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.WeddingEdit.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.csproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.WeddingInstallment.resources
+C:\Users\Anthony\Desktop\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptismInstallment.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.exe
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.pdb
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\bin\Debug\ChurchReservation.exe
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\bin\Debug\ChurchReservation.pdb
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Accounts.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptEditExit.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptismEdit.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptismInstallment.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Baptist.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistFinished.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistViewing.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistViewingForm.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.CreditsForm.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.EditForms.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Fill_upBapt.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupForm.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupForm2.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupFormFuneral.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.LoginFrm.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralEdit.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralFinish.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralForm.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralInstallment.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralReq.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralViewingForm.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.InstallmentForm.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Main.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.marriage.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.MarriageViewing.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.MoreForm.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Payment.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentBapt.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentForm.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentFuneral.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PopUpBaptism.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PopUpWedding.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Properties.Resources.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.ReqBaptist.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.REQUIREMENTS.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Viewing.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.ViewingForm.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.WeddingEdit.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.WeddingInstallment.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.csproj.GenerateResource.Cache
+G:\New folder (2)\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.exe
+G:\New folder (2)\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.pdb
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PopupFuneral.resources
+C:\Users\Anthony\Desktop\New folder (2)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationForm.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.exe
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.pdb
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\bin\Debug\ChurchReservation.exe
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\bin\Debug\ChurchReservation.pdb
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Accounts.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptEditExit.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptismEdit.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptismInstallment.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Baptist.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistFinished.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistViewing.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistViewingForm.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.CreditsForm.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.EditForms.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Fill_upBapt.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupForm.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupForm2.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupFormFuneral.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.LoginFrm.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralEdit.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralFinish.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralForm.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralInstallment.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralReq.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralViewingForm.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.InstallmentForm.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Main.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.marriage.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.MarriageViewing.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.MoreForm.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Payment.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentBapt.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentForm.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentFuneral.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PopUpBaptism.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Properties.Resources.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationForm.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.ReqBaptist.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.REQUIREMENTS.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Viewing.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.ViewingForm.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.WeddingEdit.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.WeddingInstallment.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.csproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationList.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.exe
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.pdb
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\bin\Debug\ChurchReservation.exe
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\bin\Debug\ChurchReservation.pdb
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Accounts.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptEditExit.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptismEdit.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptismInstallment.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Baptist.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistFinished.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistViewing.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistViewingForm.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.CreditsForm.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.EditForms.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Fill_upBapt.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupForm.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupForm2.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupFormFuneral.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.LoginFrm.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralEdit.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralFinish.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralForm.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralInstallment.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralReq.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralViewingForm.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.InstallmentForm.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Main.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.marriage.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.MarriageViewing.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.MoreForm.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Payment.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentBapt.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentForm.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentFuneral.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PopUpBaptism.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Properties.Resources.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationForm.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationList.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.ReqBaptist.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.REQUIREMENTS.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Viewing.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.ViewingForm.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.WeddingEdit.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.WeddingInstallment.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.csproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationFormBaptist.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationListBaptist.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationListFuneral.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Resources.RegistrationFormFuneral.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationFormFuneral.resources
+C:\Users\Anthony\Desktop\My program\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.AccountSetting.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.AccountSetting.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationFormBaptist.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationFormFuneral.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationListBaptist.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationListFuneral.resources
+C:\Users\Anthony\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Resources.RegistrationFormFuneral.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.exe
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.pdb
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\bin\Debug\ChurchReservation.exe
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\bin\Debug\ChurchReservation.pdb
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Accounts.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.AccountSetting.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptEditExit.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptismEdit.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptismInstallment.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Baptist.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistFinished.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistViewing.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistViewingForm.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.CreditsForm.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.EditForms.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Fill_upBapt.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupForm.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupForm2.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupFormFuneral.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.LoginFrm.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralEdit.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralFinish.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralForm.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralInstallment.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralReq.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralViewingForm.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.InstallmentForm.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Main.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.marriage.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.MarriageViewing.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.MoreForm.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Payment.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentBapt.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentForm.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentFuneral.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PopUpBaptism.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Properties.Resources.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationForm.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationFormBaptist.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationFormFuneral.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationList.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationListBaptist.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationListFuneral.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.ReqBaptist.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.REQUIREMENTS.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Resources.RegistrationFormFuneral.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Viewing.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.ViewingForm.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.WeddingEdit.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.WeddingInstallment.resources
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.EnableForm.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.exe
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.pdb
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Accounts.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.AccountSetting.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptEditExit.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptismEdit.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptismInstallment.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Baptist.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistViewing.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.BaptistViewingForm.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.CreditsForm.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.EditForms.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.EnableForm.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Fill_upBapt.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupForm.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupForm2.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FillupFormFuneral.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.LoginFrm.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralEdit.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralFinish.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralForm.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralInstallment.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralReq.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.FuneralViewingForm.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.InstallmentForm.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Main.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.marriage.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.MarriageViewing.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.MoreForm.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Payment.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentBapt.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentForm.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PaymentFuneral.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.PopUpBaptism.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Properties.Resources.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationForm.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationFormBaptist.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationFormFuneral.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationList.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationListBaptist.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.RegistrationListFuneral.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.ReqBaptist.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.REQUIREMENTS.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Resources.RegistrationFormFuneral.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.Viewing.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.ViewingForm.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.WeddingEdit.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.WeddingInstallment.resources
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.csproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\bin\Debug\ChurchReservation.exe
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\bin\Debug\ChurchReservation.pdb
+C:\Users\Anthony\Desktop\dudewhatthefuck\New folder (3)\ChurchReservation\ChurchReservation\obj\x86\Debug\ChurchReservation.AccountForm.resources
